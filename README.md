@@ -1,6 +1,6 @@
 <div align="center">
 
-# 🚀 Python Programming: Study Notes & Projects
+# <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png" width="38" height="38" alt="Python Logo" align="absmiddle"> 🚀 Python Programming: Study Notes & Projects
 
 <p align="center">
   <img src="https://img.shields.io/badge/Python-3.x-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python">
