@@ -21,21 +21,21 @@ The repository is neatly cataloged into progressive chapters and hands-on projec
 
 | Chapter / Folder | Core Topics & Focus Areas |
 | :--- | :--- |
-| **Ch.-01_Introduction_to_Python** | Python installation, environment setup, syntax basics, and writing your first scripts. |
-| **Ch.-02_Python_Variables,Datatypes & Operators** | Variable assignment, core data types, type casting, arithmetic, logical, and bitwise operators. |
-| **Ch.-03_Strings** | String indexing, slicing, built-in string methods, formatting, and escape sequences. |
-| **Ch.-04_Lists & Tuples** | Mutable vs immutable collections, list comprehension, methods, and tuple packing/unpacking. |
-| **Ch.-05_Dictionary & Sets** | Key-value pairs, dictionary methods, set theory operations, and hash-based lookups. |
-| **Ch.-06_Conditional_Expressions** | Decision making with `if`, `elif`, `else` statements, and nested conditionals. |
-| **Ch.-07_Loops** | Iteration using `for` and `while` loops, `break`, `continue`, `pass`, and loop else blocks. |
-| **Ch.-08_Functions** | Function definition, arguments (`*args`, `**kwargs`), return values, recursion, and lambda functions. |
-| **Ch.-09_Project-1** | **Milestone Project 1:** Practical application of core fundamentals and logic building. |
-| **Ch.-10_File_Handling** | Reading, writing, and appending text/binary files with context managers (`with` statement). |
-| **Ch.-11_Exception_Handling** | Error management using `try`, `except`, `else`, `finally`, and raising custom exceptions. |
-| **Ch.-12_Object_Oriented_Programming** | Classes, objects, inheritance, polymorphism, encapsulation, and magic/dunder methods. |
-| **Ch.-13_Project-2** | **Milestone Project 2:** Advanced script development combining file I/O, OOP, and error handling. |
-| **Ch.-14_Advanced_Python-1** | Iterators, generators, decorators, and advanced functional constructs. |
-| **Ch.-15_Advanced_Python-2** | Concurrency, advanced libraries, and high-performance coding techniques. |
+| **[Ch.-01_Introduction_to_Python](Ch.-01_Introduction_to_Python)** | Python installation, environment setup, syntax basics, and writing your first scripts. |
+| **[Ch.-02_Python_Variables,Datatypes & Operators](Ch.-02_Python_Variables,Datatypes_%26_Operators)** | Variable assignment, core data types, type casting, arithmetic, logical, and bitwise operators. |
+| **[Ch.-03_Strings](Ch.-03_Strings)** | String indexing, slicing, built-in string methods, formatting, and escape sequences. |
+| **[Ch.-04_Lists & Tuples](Ch.-04_Lists_%26_Tuples)** | Mutable vs immutable collections, list comprehension, methods, and tuple packing/unpacking. |
+| **[Ch.-05_Dictionary & Sets](Ch.-05_Dictionary_%26_Sets)** | Key-value pairs, dictionary methods, set theory operations, and hash-based lookups. |
+| **[Ch.-06_Conditional_Expressions](Ch.-06_Conditional_Expressions)** | Decision making with `if`, `elif`, `else` statements, and nested conditionals. |
+| **[Ch.-07_Loops](Ch.-07_Loops)** | Iteration using `for` and `while` loops, `break`, `continue`, `pass`, and loop else blocks. |
+| **[Ch.-08_Functions](Ch.-08_Functions)** | Function definition, arguments (`*args`, `**kwargs`), return values, recursion, and lambda functions. |
+| **[Ch.-09_Project-1](Ch.-09_Project-1)** | **Milestone Project 1:** Practical application of core fundamentals and logic building. |
+| **[Ch.-10_File_Handling](Ch.-10_File_Handling)** | Reading, writing, and appending text/binary files with context managers (`with` statement). |
+| **[Ch.-11_Exception_Handling](Ch.-11_Exception_Handling)** | Error management using `try`, `except`, `else`, `finally`, and raising custom exceptions. |
+| **[Ch.-12_Object_Oriented_Programming](Ch.-12_Object_Oriented_Programming)** | Classes, objects, inheritance, polymorphism, encapsulation, and magic/dunder methods. |
+| **[Ch.-13_Project-2](Ch.-13_Project-2)** | **Milestone Project 2:** Advanced script development combining file I/O, OOP, and error handling. |
+| **[Ch.-14_Advanced_Python-1](Ch.-14_Advanced_Python-1)** | Iterators, generators, decorators, and advanced functional constructs. |
+| **[Ch.-15_Advanced_Python-2](Ch.-15_Advanced_Python-2)** | Concurrency, advanced libraries, and high-performance coding techniques. |
 
 ---
 
